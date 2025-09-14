@@ -1,6 +1,6 @@
 ## **Product Sales Dashboard Design**
 
-## **Overview:** This project presents a Power BI dashboard built to visualize and analyze call center performance metrics based on the provided dataset. The dataset contains call records with details such as agent information, customer interactions, and product sold.
+# **Overview:** This project presents a Power BI dashboard built to visualize and analyze call center performance metrics based on the provided dataset. The dataset contains call records with details such as agent information, customer interactions, and product sold.
 
 ---
 
@@ -30,7 +30,7 @@ A bar chart displaying the top-performing agents based on sales.
 
 Here is a preview of the **Product Sales Performance Dashboard** created in Power BI:
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](https://github.com/Aastha-collab/Product-Sales-Dashboard-Design--Power-BI-/commit/584e078c6168e2a76be9aed1374c4553c2151aaf)
 
 ---
 
